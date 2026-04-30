@@ -1,16 +1,25 @@
 ## Hi there 👋
+I'm Vishal
+An aspiring Web Developer with one simple rule: Do it yourself.
+I learn by building, grow by failing, and improve by showing up every single day.
 
-<!--
-**vishalsinghexe12-ui/vishalsinghexe12-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm Working On
 
-Here are some ideas to get you started:
+Learning the MERN Stack
+Practicing DSA & Problem Solving
+Building projects to turn concepts into code
+Staying consistent with daily coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My Toolkit :
+
+VS Code
+Git & GitHub
+A browser and a lot of curiosity
+
+
+Goal :
+To become a skilled, self-made developer — built on discipline, consistency, and practice.
+
+Fun Fact:
+If it works, don’t touch it. If it breaks, I was never here.
